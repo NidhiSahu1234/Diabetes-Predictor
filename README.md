@@ -23,10 +23,12 @@ A machine learning-based project aimed at predicting the likelihood of diabetes 
 
 ## 🛠️ Tech Stack
 - Python
-- Scikit-learn
-- Pandas, NumPy
+- Numpy
+- Matplotlib
+- Pandas
+- Scikit
+- Seaborn
 - Power BI
-- Jupyter Notebook
 
 ## 📁 Dataset
 - **PIMA Indian Diabetes Dataset** from the UCI Machine Learning Repository
