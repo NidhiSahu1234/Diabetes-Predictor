@@ -33,7 +33,4 @@ A machine learning-based project aimed at predicting the likelihood of diabetes 
 ## 📁 Dataset
 - **PIMA Indian Diabetes Dataset** from the UCI Machine Learning Repository
 
-## 📎 Resources
-- [Colab file Link]([https://onedrive.live.com/....](https://colab.research.google.com/drive/1yOOTPBQV6AoqylKABAyIuC5N3aN9Uzel?usp=sharing)) 
-
 
